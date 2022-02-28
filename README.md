@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there, I am Md. Nimur Rahaman 👋
 
-<!--
-**nimurrahman2140/nimurrahman2140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm now a B.SC(Final Year) student at Daffodil International University studying Computer Science Engineering. I consider myself to be a tenacious student who enjoys problem-solving with simple and scalable solutions. A self-motivated IT expert with extensive knowledge and experience in Graphic Designer,  HTML, CSS, JavaScript, and mobile responsive web development, as well as good writing skills and abilities
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on web development
+- 🌱 I’m currently learning  ReactJS, NodeJS, ExpressJS,
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
