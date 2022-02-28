@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Md. Nimur Rahaman
-#### I am I am a graphic designer and web developer
-![I am I am a graphic designer and web developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
+#### I am a graphic designer and web developer
+![I am a graphic designer and web developer](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 
 I'm now a B.SC(Final Year) student at Daffodil International University studying Computer Science Engineering. I consider myself to be a tenacious student who enjoys problem-solving with simple and scalable solutions. A self-motivated IT expert with extensive knowledge and experience in Graphic Designer,  HTML, CSS, JavaScript, and mobile responsive web development, as well as good writing skills and abilities.
 
